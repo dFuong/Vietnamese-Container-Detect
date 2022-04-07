@@ -21,7 +21,7 @@
     $conda install -c anaconda tensorflow-gpu==2.2.0
     $conda install -c anaconda tensorflow-gpu
 
-**Clone the tensorflow models responsitory:** [Tensorflow-models-github](https://github.com/tensorflow/models.git)
+**Clone the tensorflow models responsitory:** [Tensorflow-models-object-detection-github](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 **Remember to activate your python environment first**
 
